@@ -217,3 +217,10 @@ a {
 	font-size: 18px;
 	color: #f9faf8;
 }
+
+footer {
+	padding: 24px;
+	background-color: #1f2937;
+	color: #e5e7eb;
+	text-align: center;
+}
